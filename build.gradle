@@ -11,6 +11,7 @@ buildscript {
 }
 
 allprojects {
+    buildDir = "C:/Users/abhi/AndroidStudioProjects/InterstitialExample/${rootProject.name}/${project.name}"
     repositories {
         jcenter()
     }
